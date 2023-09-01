@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@arbitrum/sdk": "^3.0.0",
-    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts": "^4.9.3",
     "arb-bridge-eth": "^0.7.8",
     "arbos-precompiles": "^1.0.2",
     "dotenv": "^16.0.3"
